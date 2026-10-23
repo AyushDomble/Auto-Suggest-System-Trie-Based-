@@ -6,7 +6,7 @@
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
 
 ## **Trie-based Auto-Suggest System** written in **C++**.  
-This is a console-based auto-suggest and dictionary management system built in C. It uses a Trie data structure for efficient storage and retrieval of words, providing fast auto-suggestions based on a given prefix. The system also includes features for managing a dictionary file, tracking search frequency, and monitoring word additions and deletions within a session.
+This is a console-based auto-suggest and dictionary management system built in C++. It uses a Trie data structure for efficient storage and retrieval of words, providing fast auto-suggestions based on a given prefix. The system also includes features for managing a dictionary file, tracking search frequency, and monitoring word additions and deletions within a session.
 
 ---
 
