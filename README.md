@@ -1,6 +1,6 @@
 # 🔠 Auto-Suggest System (Trie-Based)
 
-![C++](https://shields.io)
+![C++](https://shields.io/badge/Language-C++-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
