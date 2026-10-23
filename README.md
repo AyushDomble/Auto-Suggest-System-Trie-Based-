@@ -1,11 +1,11 @@
 # 🔠 Auto-Suggest System (Trie-Based)
 
-![C](https://img.shields.io/badge/Language-C-blue.svg)
+![C++](https://shields.io)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
 
-## **Trie-based Auto-Suggest System** written in **C**.  
+## **Trie-based Auto-Suggest System** written in **C++**.  
 This is a console-based auto-suggest and dictionary management system built in C. It uses a Trie data structure for efficient storage and retrieval of words, providing fast auto-suggestions based on a given prefix. The system also includes features for managing a dictionary file, tracking search frequency, and monitoring word additions and deletions within a session.
 
 ---
@@ -25,10 +25,9 @@ This is a console-based auto-suggest and dictionary management system built in C
 
 ## 📂 Project Structure
 ```plaintext
-├── AutoSuggest.c # Main source code
+├── AutoSuggest.cpp # Main source code
 ├── Dictionary.txt # Persistent word dictionary
 ├── SearchStats.txt # Persistent search frequency log
-├── trie_visualization.png # Trie visualization diagram
 ├── README.md # Documentation
 └── .gitignore # Ignored files list
 ```
@@ -62,7 +61,7 @@ This is a console-based auto-suggest and dictionary management system built in C
 
 ### Compile:
 ```bash
-gcc AutoSuggest.c -o AutoSuggest
+g++ AutoSuggest.cpp -o AutoSuggest
 ```
 ### Run:
 ```bash
